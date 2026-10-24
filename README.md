@@ -54,4 +54,7 @@ The dataset was obtained from Kaggle. Refer to the original dataset page for its
 
 ## Objective
 To analyze business performance, identify sales and profitability trends, and present meaningful insights through data visualization.
+## Dashboard Preview
+
+![Superstore Sales & Profit Analysis Dashboard](dashboard.png)
 
